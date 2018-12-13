@@ -4,7 +4,7 @@
 A sample project for training purposes.
 
 This project is created using Ant Design Pro as a base
-<div>
+</div>
 
 More information about Ant Design Pro
 - Preview: http://preview.pro.ant.design
